@@ -542,8 +542,8 @@ onMounted(() => {
   }
 
   .qr-col_url {
-    flex: 0 1 200px;
-    max-width: 200px;
+    flex: 1;
+    max-width: 280px;
     min-width: 0;
     margin: 0;
     font-size: 12px;
